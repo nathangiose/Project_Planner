@@ -11,6 +11,12 @@
       "title": "Make marketing email",
       "details": "Lorem ipsum",
       "complete": true
+    },
+    {
+      "title": "Clean my mug",
+      "details": "The dishwasher should always remain empty. That's how I prefer it.\n",
+      "complete": true,
+      "id": 3
     }
   ]
 }
